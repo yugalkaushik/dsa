@@ -15,6 +15,7 @@ public:
             if(umap.find(comp) != umap.end()){
                 return {umap[comp], i};
             }
+            
             umap[nums[i]]=i;
         }
         return {};
