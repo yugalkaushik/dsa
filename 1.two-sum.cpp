@@ -14,8 +14,7 @@ public:
             int comp = target - nums[i];
             if(umap.find(comp) != umap.end()){
                 return {umap[comp], i};
-            }
-            
+            }          
             umap[nums[i]]=i;
         }
         return {};
