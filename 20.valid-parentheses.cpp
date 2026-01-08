@@ -17,6 +17,7 @@ public:
                 if(st.empty() or (st.top()=='(' and i!=')') or (st.top()=='{' and i!='}') or (st.top()=='[' and i!=']')) return false;
                 st.pop();  
             }
+            
         }
         return st.empty(); 
     }
