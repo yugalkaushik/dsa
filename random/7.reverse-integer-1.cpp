@@ -11,3 +11,4 @@ public:
 };
 
 // TC = O(logn)
+// SC = 0(1)
