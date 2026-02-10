@@ -18,4 +18,4 @@ public:
 };
 
 // tc = O(N log N) due to sorting
-// sc = O(N) for the result vector
+// sc = O(1)
