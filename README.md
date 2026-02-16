@@ -1,3 +1,3 @@
 ## Data Structures & Algorithms (DSA)
 
-### This repository contains my personal collection of Data Structures and Algorithms problems solved in C++, primarily for interview preparation, LeetCode-style problems and core DSA mastery.
+This repository contains a personal collection of C++ solutions to Data Structures and Algorithms problems. The focus is on interview preparation, algorithmic practice and mastering core DSA concepts.
