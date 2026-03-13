@@ -14,6 +14,7 @@ public:
                 curr += nums[j];
                 if(curr>=target){
                     minlen = min(minlen,j-i+1);
+                    break;
                 }
             }
         }
