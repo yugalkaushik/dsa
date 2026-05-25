@@ -5,3 +5,4 @@
 *.obj
 output
 a.out
+*.vscode
