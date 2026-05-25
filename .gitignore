@@ -1,1 +1,7 @@
-*.txt
+# C/C++ compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+output
+a.out
